@@ -4,6 +4,7 @@
 
 This App is an authentication system that validates user for accessing the system only when they have input correct password. The App involves three levels of user authentication. This App is aimed to achieve the highest security in authenticating users.
 
+
 ## Features
 * Users would be given a registration form that has to be filled with required details.
 * Next users would be asked to set password for first level, second level and third level subsequently.
@@ -20,7 +21,7 @@ This App is an authentication system that validates user for accessing the syste
 ### Install 
 
 ```sh
-$ git clone https://github.com/rajatkhanna1999/3LevelAuthenticationApp.git
+$ git clone https://github.com/AdityaNaresh/3LevelAuthenticationApp.git
 ```
 Then open in Android Studio.
 
@@ -33,3 +34,6 @@ Then open in Android Studio.
 <img src="https://user-images.githubusercontent.com/31288037/57477565-928f7400-72b6-11e9-8fb0-ef806972ff9f.jpeg" width="340" height="567">
 <img src="https://user-images.githubusercontent.com/31288037/57477592-a20ebd00-72b6-11e9-8c1a-30174136034e.jpeg" width="340" height="567">
 
+## My Teammates (Group Project) :
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. [Rajat Khanna](https://github.com/rajatkhanna1999)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Manas Ghai
